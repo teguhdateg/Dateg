@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="Biodata"
+            android:id="@+id/biodata_id"
+            android:icon="@mipmap/biodata" />
+
+        <item
+            android:title="Pendidikan"
+            android:id="@+id/pendidikan_id"
+            android:icon="@mipmap/pendidikan" />
+
+        <item
+            android:title="keahlian"
+            android:id="@+id/keahlian_id"
+            android:icon="@mipmap/keahlian" />
+
+    </group>
+
+    <item android:title="KontakPerson">
+
+        <menu>
+
+            <item
+                android:title="alamat"
+                android:id="@+id/alamat_id"
+                android:icon="@mipmap/alamat"
+                />
+            <item
+                android:title="Kontak"
+                android:id="@+id/kontak_id"
+                android:icon="@mipmap/phone"
+                />
+
+        </menu>
+
+
+
+    </item>
+
+    <group>
+
+        <item
+            android:title="Logout"
+            android:id="@+id/keluar"
+            />
+
+    </group>
+
+
+
+
+
+
+
+</menu>

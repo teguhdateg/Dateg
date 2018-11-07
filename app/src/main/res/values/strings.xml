@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DATEG</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="anda_belum_punya_akun">Anda Belum Punya Akun?</string>
+    <string name="buat_disini">Buat Disini</string>
+    <string name="register">Register</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="text">Text</string>
+    <string name="creator">Creator</string>
+    <string name="opn_drawer">OpenDrawer</string>
+    <string name="cls_drawer">CloseDrawer</string>
+    <string name="input">Input</string>
+    <string name="masukan_text">Masukan Teks</string>
+    <string name="tambah">Tambah</string>
+</resources>

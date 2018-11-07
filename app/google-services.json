@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839471926570",
+    "firebase_url": "https://amikom-1b5d5.firebaseio.com",
+    "project_id": "amikom-1b5d5",
+    "storage_bucket": "amikom-1b5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839471926570:android:82c00ab8d235f38f",
+        "android_client_info": {
+          "package_name": "com.example.teguh.amikom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839471926570-nvnf24bvm48ojcb0bubhf7fuaf8rmtup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teguh.amikom",
+            "certificate_hash": "9f0c59147a6c9bc0eab875221fb0244f38daeb8c"
+          }
+        },
+        {
+          "client_id": "839471926570-8j2ersilk7suvjph9e6ij74b9l9dgimh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgw7XtUDfmX1yTeFi8SFU6Zv3oCZpR40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839471926570-8j2ersilk7suvjph9e6ij74b9l9dgimh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
