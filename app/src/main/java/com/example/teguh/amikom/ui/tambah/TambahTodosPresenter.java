@@ -12,8 +12,8 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-class TambahTodosPresenter {
-    private TambahTodosView tambahTodosView;
+public class TambahTodosPresenter {
+    public TambahTodosView tambahTodosView;
 
     TambahTodosPresenter(TambahTodosView tambahTodosView) {
         this.tambahTodosView = tambahTodosView;

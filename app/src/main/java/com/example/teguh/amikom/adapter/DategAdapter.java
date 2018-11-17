@@ -49,9 +49,10 @@ public class DategAdapter extends RecyclerView.Adapter<DategAdapter.ViewHolder> 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(context, DetailTodosActivity.class);
-                intent.putExtra("id", todos.getId());
-                context.startActivity(intent);
+                Intent in = new Intent(context, DetailTodosActivity.class);
+                in.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                in.putExtra("id", todos.getId());
+                context.startActivity(in);
             }
         });
     }

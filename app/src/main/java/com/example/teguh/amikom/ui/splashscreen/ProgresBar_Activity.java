@@ -66,7 +66,7 @@ public class ProgresBar_Activity extends AppCompatActivity {
                  }
 
              }
-         },5000,8000);
+         },9000,20000);
 
 
     }

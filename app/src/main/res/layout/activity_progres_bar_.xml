@@ -29,10 +29,11 @@
 
 
     <ProgressBar
-        android:layout_width="wrap_content"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/progresbar_id"
         android:layout_margin="20dp"
-        android:theme="@style/ProgressBarTheme"/>
+        style="?android:attr/progressBarStyleHorizontal"
+        android:indeterminate="true"/>
 
 </LinearLayout>

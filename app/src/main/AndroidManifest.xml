@@ -22,6 +22,7 @@
         <activity android:name=".ui.main.MainActivity" />
         <activity android:name=".ui.register.RegisterActivity"></activity>
         <activity android:name=".ui.tambah.TambahTodosActivity"></activity>
+        <activity android:name=".ui.detailtodos.DetailTodosActivity"></activity>
     </application>
 
 </manifest>
